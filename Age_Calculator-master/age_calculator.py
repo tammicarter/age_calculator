@@ -1,5 +1,5 @@
 ''' 
-create a clculator that calculates 
+create a calculator that calculates 
 the year the user turns 100
 '''
 
